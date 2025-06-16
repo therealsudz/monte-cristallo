@@ -45,6 +45,9 @@ Perfect for developers, CTF players, penetration testers, and cybersecurity enth
 - `decrypt` – Decrypt a file (AES)
 
 ---
+## 🖼️ Screenshot
+https://github.com/therealsudz/monte-cristallo/blob/bf7ebb57297a959a60da569d60463051bedf327b/Screenshot.png
+---
 
 ## 💻 Installation
 
