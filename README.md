@@ -7,7 +7,7 @@ Perfect for developers, CTF players, penetration testers, and cybersecurity enth
 
 ## 🚀 Features & Commands
 
-### 📁 General
+### 📁 Generalhttps://github.com/therealsudz/monte-cristallo
 - `help` / `h` – Show this help menu  
 - `clear` / `cls` – Clear the terminal screen  
 - `exit` / `quit` / `q` – Exit the application
@@ -52,6 +52,7 @@ Perfect for developers, CTF players, penetration testers, and cybersecurity enth
 ```bash
 git clone https://github.com/therealsudz/monte-cristallo.git
 cd monte-cristallo
+python3 main.py
 ```
 ---
 product under MIT License
