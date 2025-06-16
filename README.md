@@ -7,7 +7,7 @@ Perfect for developers, CTF players, penetration testers, and cybersecurity enth
 
 ## 🚀 Features & Commands
 
-### 📁 Generalhttps://github.com/therealsudz/monte-cristallo
+### 📁 General
 - `help` / `h` – Show this help menu  
 - `clear` / `cls` – Clear the terminal screen  
 - `exit` / `quit` / `q` – Exit the application
