@@ -46,7 +46,8 @@ Perfect for developers, CTF players, penetration testers, and cybersecurity enth
 
 ---
 ## 🖼️ Screenshot
-!image[https://github.com/therealsudz/monte-cristallo/blob/bf7ebb57297a959a60da569d60463051bedf327b/Screenshot.png]
+![obraz](https://github.com/user-attachments/assets/5487ce19-68af-4016-a5b9-99ddfd15d710)
+
 ---
 
 ## 💻 Installation
