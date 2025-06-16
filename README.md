@@ -45,4 +45,13 @@ Perfect for developers, CTF players, penetration testers, and cybersecurity enth
 - `decrypt` – Decrypt a file (AES)
 
 ---
-Product under MIT license
+
+## 💻 Installation
+
+### Clone the repository
+```bash
+git clone https://github.com/therealsudz/monte-cristallo.git
+cd monte-cristallo
+```
+---
+product under MIT License
