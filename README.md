@@ -61,8 +61,6 @@ python3 main.py
 ---
 # License
 
-# License
-
 Licensed under the MIT License.  
 Free to use, modify, and distribute with attribution.
 
